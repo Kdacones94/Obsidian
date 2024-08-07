@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-linter",
-  "editing-toolbar"
+  "editing-toolbar",
+  "actions-uri"
 ]

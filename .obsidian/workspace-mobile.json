@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform Design Steps.md",
+                "file": "Author.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,7 +35,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTimeReverse"
           }
         }
       },
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:Terraform",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Terraform Design Steps.md",
+            "file": "Author.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Terraform Design Steps.md",
+            "file": "Author.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Terraform Design Steps.md"
+            "file": "Author.md"
           }
         }
       },
@@ -157,6 +157,19 @@
   },
   "active": "7e73cd3c1ac90be2",
   "lastOpenFiles": [
-    "Terraform Design Steps.md"
+    "Cloud Technologies",
+    "Terraform Design Steps.md",
+    "Author.md",
+    "Scope.md",
+    "Obsidian/obsidian-backup.git/objects/82/7ceb19ac8e78664aaa55a94b86f12dbc3785e3",
+    "Obsidian/obsidian-backup.git/objects/21/fd5b9327a7256239e9e55063cc3fb57f87167d",
+    "Obsidian/obsidian-backup.git/objects/21",
+    "Obsidian/obsidian-backup.git/objects/0f/8aaea50c188921f2d85f3d44ef3824945888ee",
+    "Obsidian/obsidian-backup.git/objects/0f",
+    "Obsidian/obsidian-backup.git/objects/b1/821dcd799ce6948c2419f72ee95c626f9edb03",
+    "Obsidian/obsidian-backup.git/objects/ee/712db75896f01c146f616e3132d12254ccfb48",
+    "Obsidian/obsidian-backup.git/objects/88/a8a04ba52cb7f93af0f2aed3bc60d6b6e877de",
+    "Obsidian/obsidian-backup.git/objects/aa/de10e1cfb78f6055147d9d2c10c71024f31c52",
+    "Obsidian/obsidian-backup.git/objects/b4/3515d7fe9c7be459315ef4da05d474647449a1"
   ]
 }
